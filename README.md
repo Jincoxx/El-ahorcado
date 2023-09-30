@@ -7,9 +7,7 @@ Segundo proyecto de Alura Latam, en el que desarrollé un juego de ahorcado con 
 
 ![Challenge Alura Latam + Oracle](https://raw.githubusercontent.com/EduardoUT/Ahorcado-Oracle-ONE-Challenge/master/img/assets/challengeImage.jpg)
 
-Página Web: https://eduardout.github.io/Ahorcado-Oracle-ONE-Challenge/
-
-Publicado en el topic: https://github.com/topics/challengeonejuegoahorcado
+Página Web: https://el-ahorcado-sooty.vercel.app
 
 **Requisitos:**
 - Debe funcionar solo con letras mayúsculas;
@@ -28,8 +26,4 @@ Publicado en el topic: https://github.com/topics/challengeonejuegoahorcado
 **Capturas**
 **Vista previa ventana de inicio o home.**
 
-![Vista previa ventana de inicio o home.](https://raw.githubusercontent.com/EduardoUT/Ahorcado-Oracle-ONE-Challenge/master/img/assets/Bienvenida.PNG)
-
-**Vista previa ventana del juego.**
-
-![Vista previa ventana del juego.](https://raw.githubusercontent.com/EduardoUT/Ahorcado-Oracle-ONE-Challenge/master/img/assets/Juego.PNG)
+![image](https://github.com/Jincoxx/El-ahorcado/assets/108629591/c8aed916-fec4-46aa-9fe8-95bc5eb17769)
